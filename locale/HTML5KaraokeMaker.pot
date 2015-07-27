@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2015-07-07 12:52+CEST\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: HTML5KaraokeMaker.py:42
+msgid "usage"
+msgstr ""
+
+#: HTML5KaraokeMaker.py:44
+msgid "show this help message and exit"
+msgstr ""
+
+#: HTML5KaraokeMaker.py:45
+msgid "error:"
+msgstr ""
+
+#: HTML5KaraokeMaker.py:47
+msgid "the following arguments are required:"
+msgstr ""
+
+#: HTML5KaraokeMaker.py:49
+msgid "too few arguments"
+msgstr ""
+
+#: HTML5KaraokeMaker.py:51
+msgid "optional arguments"
+msgstr ""
+
+#: HTML5KaraokeMaker.py:71
+msgid "use a local path file"
+msgstr ""
+
+#: HTML5KaraokeMaker.py:77
+msgid "choose a specific output file"
+msgstr ""
+
+#: HTML5KaraokeMaker.py:94
+msgid "Interface error"
+msgstr ""
+
+#: HTML5KaraokeMaker.py:102
+msgid "No file"
+msgstr ""
+

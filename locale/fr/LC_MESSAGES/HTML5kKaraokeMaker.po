@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-07-07 12:52+CEST\n"
+"PO-Revision-Date: 2015-07-07 12:54+0100\n"
+"Last-Translator: Guenael Muller <contact@inkey-art.net>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 1.6.10\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: HTML5KaraokeMaker.py:42
+msgid "usage"
+msgstr "usage"
+
+#: HTML5KaraokeMaker.py:44
+msgid "show this help message and exit"
+msgstr "affiche cette aide et termine le programme"
+
+#: HTML5KaraokeMaker.py:45
+msgid "error:"
+msgstr "Erreur:"
+
+#: HTML5KaraokeMaker.py:47
+msgid "the following arguments are required:"
+msgstr "Les arguments suivant sont requis:"
+
+#: HTML5KaraokeMaker.py:49
+msgid "too few arguments"
+msgstr "pas assez d'arguments"
+
+#: HTML5KaraokeMaker.py:51
+msgid "optional arguments"
+msgstr "arguments optionnels"
+
+#: HTML5KaraokeMaker.py:71
+msgid "use a local path file"
+msgstr "utilisation d'un chemin local"
+
+#: HTML5KaraokeMaker.py:77
+msgid "choose a specific output file"
+msgstr "Choisissez un fichier de sortie spécifique"
+
+#: HTML5KaraokeMaker.py:94
+msgid "Interface error"
+msgstr "Erreur d'interface"
+
+#: HTML5KaraokeMaker.py:102
+msgid "No file"
+msgstr "Pas de fichier"
