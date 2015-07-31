@@ -4,7 +4,7 @@ a simple Python program to create easily
 html5 karaoke like in **html5-audio-read-along-master**
 from audacity marker file.
 
-##Requirement##
+## Requirement ##
 
 * python 3 (>3.4 ?)
 * a modern web browser (to test it)
